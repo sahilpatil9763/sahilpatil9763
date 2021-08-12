@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sahil Mahadev Patil</h1>
-<h3 align="center">A want to be Web developer !!</h3>
+<h1 align="center">Hi 👋, I'm Sahil Patil</h1>
+<h3 align="center">Want to be a Good Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilpatil9763&label=Profile%20views&color=0e75b6&style=flat" alt="sahilpatil9763" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilpa53227535" target="blank"><img src="https://img.shields.io/twitter/follow/sahilpa53227535?logo=twitter&style=for-the-badge" alt="sahilpa53227535" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Stuff,Python,Startup Landing Pages & Android Development**
+- 🌱 I’m currently learning **Python & Android Development**
 
 - 💬 Ask me about **JavaScript,Open source**
 
