@@ -58,6 +58,9 @@
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+    
+ <rect xmlns="http://www.w3.org/2000/svg" data-testid="card_bg" id="cardBg" x="0" y="0" rx="2.5" height="100%" stroke="#E4E2E2" fill-opacity="1" width="100%" fill="#141321" stroke-opacity="1" style="stroke:#0000; stroke-width:1;"></rect>
+
 
 ![Metrics](https://metrics.lecoq.io/sahilpatil9763?template=classic&config.timezone=America%2FToronto)
 
