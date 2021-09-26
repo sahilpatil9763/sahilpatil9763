@@ -5,7 +5,26 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sahilpatil9763.sahilpatil9763)
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <mask id="a">
+        <rect width="113" height="20" rx="3" fill="#fff"/>
+    </mask>
+    <g mask="url(#a)">
+        <rect width="81" height="20" fill="#555"/>
+        <rect x="81" width="32" height="20" fill="#0e75b6"/>
+        <rect width="113" height="20" fill="url(#b)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="41.5" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
+        <text x="41.5" y="14">Profile views</text>
+        <text x="96" y="15" fill="#010101" fill-opacity=".3">247</text>
+        <text x="96" y="14">247</text>
+    </g>
+</svg>
 
 </p>
 <div size='20px'> Hi! My name is Sahil. Thank You for taking the time to view my GitHub Profile :smile: 
