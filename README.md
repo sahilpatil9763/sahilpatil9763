@@ -4,8 +4,9 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="113" height="20">
+</p>
+    
+    <svg xmlns="http://www.w3.org/2000/svg" width="113" height="20">
     <linearGradient id="b" x2="0" y2="100%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
         <stop offset="1" stop-opacity=".1"/>
@@ -26,7 +27,7 @@
     </g>
 </svg>
 
-</p>
+    
 <div size='20px'> Hi! My name is Sahil. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
