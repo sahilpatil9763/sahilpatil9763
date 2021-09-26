@@ -1,15 +1,15 @@
 <div align="center">
-<img width="100%" height = "350px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="cover" />
+<img width="85%" height = "350px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1><p align='center'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></p> </h1>
 <p align='center'>
 </p>
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sahilpatil9763.sahilpatil9763)
 
     
-<div size='20px'> Hi! My name is Sahil. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px' align='center'> Hi! My name is Sahil. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
