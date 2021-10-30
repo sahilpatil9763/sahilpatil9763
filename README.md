@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on on my Skills
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Java 
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
