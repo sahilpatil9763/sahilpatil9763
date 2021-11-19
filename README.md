@@ -7,8 +7,7 @@
 </p>
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sahilpatil9763.sahilpatil9763)
-
-    
+  
 <div size='20px' align='center'> Hi! My name is Sahil. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
