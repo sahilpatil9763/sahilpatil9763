@@ -55,7 +55,7 @@
     
  <rect xmlns="http://www.w3.org/2000/svg" data-testid="card_bg" id="cardBg" x="0" y="0" rx="2.5" height="100%" stroke="#E4E2E2" fill-opacity="1" width="100%" fill="#141321" stroke-opacity="1" style="stroke:#0000; stroke-width:1;"></rect>
 
- 
+
 ![Metrics](https://metrics.lecoq.io/sahilpatil9763?template=classic&config.timezone=America%2FToronto)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
