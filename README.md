@@ -2,7 +2,6 @@
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
 </p>
 
-
 <h1><p align='center'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></p> </h1>
 <p align='center'>
 </p>
