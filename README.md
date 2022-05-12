@@ -1,7 +1,6 @@
 <h1><p align='center'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></p> </h1>
 <p align='center'>
 </p>
-
 <img src = "https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
   
 <div size='20px' align='center'> Hi! My name  is Sahil. Thank You for taking the time to view my GitHub Profile :smile: 
