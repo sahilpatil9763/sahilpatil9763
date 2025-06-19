@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Angular<br>🌱 I’m currently learning Angular JS<br>💬 Ask me about Coding<br>
+👯 I’m looking to collaborate on React<br>🌱 I’m currently learning React JS<br>💬 Ask me about Coding<br>
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahilpatil9763&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahilpatil9763&icon=0&color=0)](https://visitcount.itsvg.in)
