@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on React<br>🌱 I’m currently learning React JS<br>💬 Ask me about Coding<br>
+👯 I’m looking to collaborate on React<br>🌱 I’m currently learning Python<br>💬 Ask me about Coding<br>
 
 
 ## 🌐 Socials:
